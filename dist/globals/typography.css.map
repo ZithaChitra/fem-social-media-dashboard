@@ -1,0 +1,1 @@
+{"version":3,"sources":["globals/typography.scss","globals/typography.css"],"names":[],"mappings":"AAAA,SACI,YCCJ,CDGA,qBACI,oBCAJ","file":"globals/typography.css","sourcesContent":["h1, h2, h3{\n    margin-top: 0;\n\n}\n\na, a:visited, a:active{\n    text-decoration: none;\n}\n\n\n","h1, h2, h3 {\n  margin-top: 0;\n}\n\na, a:visited, a:active {\n  text-decoration: none;\n}"]}
